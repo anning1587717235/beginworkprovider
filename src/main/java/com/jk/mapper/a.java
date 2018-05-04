@@ -2,5 +2,9 @@ package com.jk.mapper;
 
 public class a {
 
-    //哈哈哈哈
+    private final String aaa="aaaaa";
+
+    public void sou(){
+        System.out.println(aaa);
+    }
 }

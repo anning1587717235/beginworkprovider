@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/beginwork.iml" filepath="$PROJECT_DIR$/beginwork.iml" />
       <module fileurl="file://$PROJECT_DIR$/beginworkprovider.iml" filepath="$PROJECT_DIR$/beginworkprovider.iml" />
     </modules>
   </component>
